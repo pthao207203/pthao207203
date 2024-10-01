@@ -2,7 +2,15 @@
 <h3 align="center">A Fullstack Developer from VietNam</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/3c/03/b7/3c03b77b40f123d191cb7a55ee98ad9d.jpg">
 
-- 👨‍💻 All of my projects are available at [**My projects**](https://github.com/pthao207203?tab=repositories)
+👨‍💻 All of my projects are available at [**My projects**](https://github.com/pthao207203?tab=repositories)
+
+
+🔭 I'm currently designing and developing a web application for University Exam Score Management in my province.
+
+- 🌱 I’m focusing on enhancing my skills with technologies like Bootstrap, HTML, CSS3, and PHP to build a dynamic and responsive system.
+
+- 👨‍💻 Interested in my work? Check out all of my projects and updates at: [**IE103**](https://github.com/pthao207203/IE103)
+
 <div align="left"> 
 <h3>Connect with me:</h3>
 <p align="left">
